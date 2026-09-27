@@ -68,4 +68,36 @@ excel-dashboard.png
 The Excel dashboard was developed using PivotTables, PivotCharts, formulas, calculated fields, and interactive slicers to analyze the same retail business dataset.
 
 ---
+---
 
+## Key Business Insights
+
+### Overall Performance
+- The business generated approximately **₹87.92 lakh in total sales** and **₹23.62 lakh in total profit**.
+- The overall **profit margin was 26.87%** across 500 orders.
+- The dataset contained **60 unique customers**.
+
+### Category Performance
+- **Furniture** was the highest-performing category with approximately **₹52.33 lakh in sales** and **₹13.70 lakh in profit**.
+- **Office Supplies** generated considerably lower sales but achieved the highest category profit margin at approximately **52.97%**.
+
+### Regional Performance
+- **West** was the highest-performing region overall with approximately **₹25.21 lakh in sales**.
+- Regional performance changes dynamically when filters are applied in the Power BI dashboard.
+
+### Product Performance
+- **Study Desk** was the highest-selling product with approximately **₹24.20 lakh in sales**.
+- Study Desk also generated approximately **₹6.05 lakh in profit**.
+- **Monitor** ranked second in sales at approximately **₹23.59 lakh**.
+
+### Customer Performance
+- **Omkar Business** was the highest-value customer by sales, generating approximately **₹13.33 lakh** from 51 orders.
+- **Nisha Mart** placed 52 orders but generated lower total sales than Omkar Business.
+- This shows that a higher number of orders does not necessarily result in higher customer value.
+
+### Monthly Sales Trend
+- **September** recorded the highest monthly sales at approximately **₹9.37 lakh**.
+- **April** was the weakest month with approximately **₹3.95 lakh in sales**.
+- Sales recovered strongly after April, with particularly strong performance in June, August, and September.
+
+---
