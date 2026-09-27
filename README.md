@@ -121,3 +121,34 @@ April recorded the lowest monthly sales. Additional business information should 
 > **Note:** The dataset identifies performance patterns but does not establish the exact cause of the April decline. Further business context would be required before making a causal conclusion.
 
 ---
+## DAX Measures Used
+
+The Power BI dashboard uses DAX measures to calculate dynamic business KPIs that automatically respond to Region and Category filters.
+
+### Total Sales
+
+```DAX
+Total Sales =
+SUM(Raw_Sales_Data[Sales_INR])
+Total Profit =
+SUM(Raw_Sales_Data[Profit_INR])
+Profit Margin % =
+DIVIDE([Total Profit], [Total Sales], 0)
+Total Orders =
+DISTINCTCOUNT(Raw_Sales_Data[Order_ID])
+Unique Customers =
+DISTINCTCOUNT(Raw_Sales_Data[Customer_ID])
+Top Region =
+VAR RegionTable =
+    TOPN(
+        1,
+        VALUES(Raw_Sales_Data[Region]),
+        [Total Sales],
+        DESC
+    )
+RETURN
+    CONCATENATEX(
+        RegionTable,
+        Raw_Sales_Data[Region],
+        ""
+    )
