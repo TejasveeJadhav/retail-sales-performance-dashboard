@@ -125,9 +125,7 @@ April recorded the lowest monthly sales. Additional business information should 
 
 The Power BI dashboard uses DAX measures to calculate dynamic business KPIs that automatically respond to Region and Category filters.
 
-### Total Sales
-
-```DAX
+DAX
 Total Sales =
 SUM(Raw_Sales_Data[Sales_INR])
 Total Profit =
