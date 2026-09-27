@@ -51,6 +51,8 @@ The analysis was designed to answer the following questions:
 - **Top Region:** West
 ---
 
+---
+
 ## Power BI Dashboard
 
 powerbi-dashboard.png
@@ -64,3 +66,6 @@ The Power BI dashboard provides an interactive view of sales performance with dy
 excel-dashboard.png
 
 The Excel dashboard was developed using PivotTables, PivotCharts, formulas, calculated fields, and interactive slicers to analyze the same retail business dataset.
+
+---
+
