@@ -49,3 +49,18 @@ The analysis was designed to answer the following questions:
 - **Total Orders:** 500
 - **Unique Customers:** 60
 - **Top Region:** West
+---
+
+## Power BI Dashboard
+
+powerbi-dashboard.png
+
+The Power BI dashboard provides an interactive view of sales performance with dynamic KPI cards, Region and Category filters, monthly sales and profit trends, category performance, regional performance, Top 5 products, and Top 5 customers.
+
+---
+
+## Excel Dashboard
+
+excel-dashboard.png
+
+The Excel dashboard was developed using PivotTables, PivotCharts, formulas, calculated fields, and interactive slicers to analyze the same retail business dataset.
