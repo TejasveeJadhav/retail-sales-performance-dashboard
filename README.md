@@ -101,3 +101,23 @@ The Excel dashboard was developed using PivotTables, PivotCharts, formulas, calc
 - Sales recovered strongly after April, with particularly strong performance in June, August, and September.
 
 ---
+## Business Recommendations
+
+### 1. Prioritize High-Performing Furniture Products
+Maintain sufficient inventory for high-performing Furniture products, particularly **Study Desk**, and evaluate additional promotional opportunities.
+
+### 2. Explore Growth Opportunities in Office Supplies
+Office Supplies generated relatively low sales but achieved strong profit margins. The business should evaluate opportunities such as product bundles, cross-selling, promotions, and wider distribution.
+
+### 3. Analyze Regional Success Factors
+Study the factors contributing to the strong performance of the **West region** and evaluate whether successful practices can be applied to lower-performing regions.
+
+### 4. Focus on High-Value Customer Retention
+Consider retention and relationship-management strategies for high-value customers such as **Omkar Business, Nisha Mart, TechPoint, Nova Traders, and Mehta Traders**.
+
+### 5. Investigate the April Sales Decline
+April recorded the lowest monthly sales. Additional business information should be reviewed to determine whether seasonality, inventory availability, promotions, customer demand, or other factors contributed to the decline.
+
+> **Note:** The dataset identifies performance patterns but does not establish the exact cause of the April decline. Further business context would be required before making a causal conclusion.
+
+---
