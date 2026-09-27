@@ -152,3 +152,55 @@ RETURN
         Raw_Sales_Data[Region],
         ""
     )
+## Skills Demonstrated
+
+### Data Analysis
+- Data cleaning and validation
+- Exploratory business analysis
+- KPI development
+- Sales and profitability analysis
+- Product performance analysis
+- Customer analysis
+- Regional performance analysis
+- Monthly trend analysis
+- Business insight generation
+- Business recommendations
+
+### Microsoft Excel
+- Excel Tables
+- SUM, COUNTA, and UNIQUE
+- PivotTables
+- PivotCharts
+- Calculated Fields
+- Top-N analysis
+- Interactive slicers
+- KPI cards
+- Dashboard development
+
+### Power BI
+- Power Query
+- Data type validation and transformation
+- DAX measures
+- DISTINCTCOUNT
+- Dynamic KPI cards
+- Top-N filtering
+- Interactive slicers
+- Data visualization
+- Interactive dashboard development
+
+### Business Skills
+- Translating business questions into analytical requirements
+- Identifying meaningful KPIs
+- Communicating insights clearly
+- Developing data-supported recommendations
+- Designing client-friendly dashboards
+
+---
+
+## Project Files
+
+- `powerbi-dashboard.png` - Final Power BI dashboard
+- `excel-dashboard.png` - Final Excel dashboard
+- `README.md` - Project documentation
+
+> **Note:** This project uses simulated retail sales data and was created for portfolio and skills-demonstration purposes.
